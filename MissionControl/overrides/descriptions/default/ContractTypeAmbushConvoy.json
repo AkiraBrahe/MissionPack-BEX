@@ -1,0 +1,6 @@
+{
+  "Id": "ContractTypeAmbushConvoy",
+  "Name": "Ambush Convoy",
+  "Details": "Your objective is to engage and destroy a convoy of units before it can reach an extraction zone. The convoy will be defended by military units, and it will attempt to flee if engaged. Destroying any defending units is not required to complete the contract.\n\nExpected Forces: <color=#F8A194>4–8 'Mechs</color>",
+  "Icon": ""
+}

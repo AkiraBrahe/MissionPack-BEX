@@ -1,0 +1,12 @@
+{
+  "EncounterLayerID": "mapArena_deathValley_aDes.ae2d4e90-e5c5-4cb2-838c-b65ce5ae41b5",
+  "MapID": "mapArena_deathValley_aDes",
+  "Name": "encMC_DuoDuel_DeathValley",
+  "FriendlyName": "Duo Duel - Death Valley",
+  "Description": "Player must kill the duel targets.",
+  "BattleValue": "0",
+  "ContractTypeID": "10001",
+  "EncounterLayerGUID": "ae2d4e90-e5c5-4cb2-838c-b65ce5ae41b5",
+  "TagSetID": "mapArena_deathValley_aDes.ae2d4e90-e5c5-4cb2-838c-b65ce5ae41b5",
+  "IncludeInBuild": "1"
+}

@@ -1,0 +1,6 @@
+{
+  "Id": "ContractTypeCaptureBase",
+  "Name": "Capture Base",
+  "Details": "Your objective is to enter a target facility, clear out any enemy presence, and occupy the facility for a number of rounds. The base may have long-range fixed defenses in the form of turrets, and there may be additional enemy units that will attempt to retake the base. Armor and sufficient ammunition are recommended.\n\nExpected Forces: <color=#F8A194>4–12 'Mechs</color>",
+  "Icon": ""
+}

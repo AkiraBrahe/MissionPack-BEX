@@ -1,0 +1,49 @@
+{
+  "ID": "faction_Solaris7",
+  "Name": "Solaris 7 League",
+  "ShortName": "Solaris 7",
+  "Description": "Solaris VII is a terran size planet that is famous throughout the whole Inner Sphere for its BattleMech fights, which are operated there as a sport in the Solaris Games.",
+  "Demonym": "Gladiators",
+  "Government": "Solaris Corporation",
+  "Allies": [],
+  "Enemies": [
+    "Davion",
+    "Kurita",
+    "Liao",
+    "Marik",
+    "Steiner",
+    "AuriganPirates",
+    "Locals"
+  ],
+  "Presence": 0.1,
+  "ReputationStatements": [
+    "You wanna get rich and famous, don't you? You have to do some fighting in the arena.",
+    "You wanna get rich and famous, don't you? You have to do some fighting in the arena.",
+    "You wanna get rich and famous, don't you? You have to do some fighting in the arena.",
+    "You wanna get rich and famous, don't you? You have to do some fighting in the arena.",
+    "You wanna get rich and famous, don't you? You have to do some fighting in the arena.",
+    "You wanna get rich and famous, don't you? You have to do some fighting in the arena.",
+    "You wanna get rich and famous, don't you? You have to do some fighting in the arena."
+  ],
+  "MissionSuccessStatements": [
+    "You did an excellent job out there, gladiator. I see a bright future ahead of you. Continue doing what you do, and good things will happen."
+  ],
+  "GoodFaithFailureStatements": [
+    "You did not succeed this time, but you did your best, and this is important. It takes a lot of grit to become a real Gladiator."
+  ],
+  "BadFaithFailureStatements": [
+    "You have disappointed me. Probably you are not good enough for Solaris. But that's ok. Not everyone can become a real Gladiator."
+  ],
+  "DefaultCombatLeaderCastDefId": "castDef_LocalsDefault",
+  "DefaultRepresentativeCastDefId": "castDef_LocalsDefault",
+  "DataManager": null,
+  "factionID": "Solaris7",
+  "icon": "uixTxrLogo_Solaris7",
+  "heraldryDefId": "heraldrydef_random",
+  "storePanelImage": null,
+  "factionStoreColor": null,
+  "factionMapBorderOverrideColor": "rgba(255,153,51,1.0)",
+  "factionMapColor": "rgba(255,153,51,1.0)",
+  "StartingReputationValues": [],
+  "StartingReputationModes": []
+}

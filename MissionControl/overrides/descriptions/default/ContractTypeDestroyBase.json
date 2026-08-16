@@ -1,0 +1,6 @@
+{
+  "Id": "ContractTypeDestroyBase",
+  "Name": "Destroy Base",
+  "Details": "Your objective is to destroy all the marked buildings in the target facility. Defeating any defending units is not required to complete the contract. The facility may have long-range fixed defenses, so 'Mechs that can withstand sustained fire, or fire back from long range, are suggested.\n\nExpected Forces: <color=#F8A194>4–12 'Mechs</color>",
+  "Icon": ""
+}

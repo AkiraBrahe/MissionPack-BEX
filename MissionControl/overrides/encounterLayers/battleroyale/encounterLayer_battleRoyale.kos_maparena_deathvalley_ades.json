@@ -1,0 +1,12 @@
+{
+	"EncounterLayerID": "mapArena_deathValley_aDes.e097c4a3-2511-47ac-af81-884f36a72c75",
+	"MapID": "mapArena_deathValley_aDes",
+	"Name": "encMC_BattleRoyale_DeathValley",
+	"FriendlyName": "Battle Royale - Death Valley",
+	"Description": "Player must defeat all",
+	"BattleValue": "0",
+	"ContractTypeID": "17001",
+	"EncounterLayerGUID": "e097c4a3-2511-47ac-af81-884f36a72c75",
+	"TagSetID": "mapArena_deathValley_aDes.e097c4a3-2511-47ac-af81-884f36a72c75",
+	"IncludeInBuild": "1"
+}

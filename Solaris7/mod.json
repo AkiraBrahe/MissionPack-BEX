@@ -1,0 +1,26 @@
+{
+  "Name": "Solaris7",
+  "Enabled": true,
+  "Version": "1.1.0",
+
+  "Description": "Become the most famous Solaris gladiator in the Inner Sphere.",
+  "Author": "Ablomis",
+
+  "DependsOn": [ "BT_Extended", "BT_Extended_3050", "FullXotlTables", "Mission Control" ],
+
+  "DLL": "Solaris7.dll",
+
+  "DataAddendumEntries": [
+    { "name": "BattleTech.FactionEnumeration", "path": "enums/Faction.json" }
+  ],
+  "Manifest": [
+    { "Type": "CastDef", "Path": "cast" },
+    { "Type": "ContractOverride", "Path": "contracts" },
+    { "Type": "CustomTag", "Path": "tags" },
+    { "Type": "FactionDef", "Path": "factions", "AddToDB": true },
+    { "Type": "ItemCollectionDef", "Path": "itemCollections" },
+    { "Type": "Sprite", "Path": "portraits" },
+    { "Type": "Sprite", "Path": "sprites" },
+    { "Type": "Texture2D", "Path": "sprites" }
+  ]
+}

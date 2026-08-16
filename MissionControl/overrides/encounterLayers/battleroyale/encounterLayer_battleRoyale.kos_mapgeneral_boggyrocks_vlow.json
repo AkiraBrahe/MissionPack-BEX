@@ -1,0 +1,12 @@
+{
+	"EncounterLayerID": "mapGeneral_boggyRocks_vLow.78033510-dfcc-45ea-8dc1-ecb9c57efc62",
+	"MapID": "mapGeneral_boggyRocks_vLow",
+	"Name": "encMC_BattleRoyale_BoggyRocks",
+	"FriendlyName": "Battle Royale - Boggy Rocks",
+	"Description": "Player must defeat all",
+	"BattleValue": "0",
+	"ContractTypeID": "17001",
+	"EncounterLayerGUID": "78033510-dfcc-45ea-8dc1-ecb9c57efc62",
+	"TagSetID": "mapGeneral_boggyRocks_vLow.78033510-dfcc-45ea-8dc1-ecb9c57efc62",
+	"IncludeInBuild": "1"
+}

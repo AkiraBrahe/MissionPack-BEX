@@ -1,0 +1,27 @@
+{
+  "enumerationValueList": [
+    {
+      "ID": 700,
+      "Name": "Solaris7",
+      "FriendlyName": "Solaris7",
+      "Description": "",
+      "FactionDefID": "faction_Solaris7",
+      "IsRealFaction": true,
+      "IsGreatHouse": false,
+      "IsClan": false,
+      "IsMercenary": true,
+      "IsPirate": false,
+      "DoesGainReputation": true,
+      "CanAlly": false,
+      "IsProceduralContractFaction": true,
+      "IsPossibleNeutralToAllFaction": false,
+      "IsPossibleHostileToAllFaction": false,
+      "IsPossibleAllyFallbackFaction": false,
+      "IsCareerScoringFaction": false,
+      "IsCareerIgnoredContractTarget": false,
+      "IsCareerStartingDisplayFaction": true,
+      "IsStoryStartingDisplayFaction": true,
+      "HasAIBehaviorVariableScope": false
+    }
+  ]
+}

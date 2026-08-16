@@ -1,0 +1,6 @@
+{
+  "Id": "ContractTypeCaptureEscort",
+  "Name": "Escort",
+  "Details": "Your objective is to reach a rendezvous point, then protect a convoy of units as it moves to an exit region. The convoy will move quickly and could outpace slower 'Mechs. It will likely be attacked by enemy units on the way to its extraction point. Defeating any attacking units is not required to complete the contract.\n\nExpected Forces: <color=#F8A194>4–12 'Mechs</color>",
+  "Icon": ""
+}

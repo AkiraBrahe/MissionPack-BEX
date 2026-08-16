@@ -1,0 +1,6 @@
+{
+  "Id": "ContractTypeDefendBase",
+  "Name": "Defend Base",
+  "Details": "Your objective is to hold a facility against enemy attack and prevent the destruction of specified buildings for a number of rounds. Armor and sufficient ammunition for a long holdout engagement are more valuable here than speed and mobility.\n\nExpected Forces: <color=#F8A194>8–12 'Mechs</color>",
+  "Icon": ""
+}

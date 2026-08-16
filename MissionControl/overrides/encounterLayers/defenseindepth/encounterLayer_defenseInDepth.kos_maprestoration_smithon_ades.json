@@ -1,0 +1,12 @@
+{
+	"EncounterLayerID": "mapRestoration_Smithon_aDes.cb101fb5-42cd-4058-890c-391252aa63f4",
+	"MapID": "mapRestoration_Smithon_aDes",
+	"Name": "encMC_DefenseInDepth_Smithon",
+	"FriendlyName": "Defense In Depth - Smithon",
+	"Description": "Layered and Elastic Defense",
+	"BattleValue": "0",
+	"ContractTypeID": "17007",
+	"EncounterLayerGUID": "cb101fb5-42cd-4058-890c-391252aa63f4",
+	"TagSetID": "mapRestoration_Smithon_aDes.cb101fb5-42cd-4058-890c-391252aa63f4",
+	"IncludeInBuild": "1"
+}

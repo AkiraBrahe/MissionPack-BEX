@@ -1,0 +1,6 @@
+{
+  "Id": "ContractTypeRescue",
+  "Name": "Recovery",
+  "Details": "Your objective is to reach a specified region, pick up the recovery target, and then move to an escape region. The unit that picks up the recovery target will be attacked by enemy forces, and thus should be able to withstand some punishment. Moving quickly to the escape region is critical, whereas defeating any defending units is not required to complete the contract.\n\nExpected Forces: <color=#F8A194>4–8 'Mechs</color>",
+  "Icon": ""
+}
