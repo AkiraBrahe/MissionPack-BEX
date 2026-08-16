@@ -11,7 +11,7 @@
 	"missionSuccessStatementOverride": null,
 	"badFaithStatementOverride": null,
 	"goodFaithStatementOverride": null,
-	"shortDescription": "{TEAM_EMP.FactionDef.Name} has been pulling back their forces in large numbers after taking heavy casualties.  The last remaining bases are being kept online as a decoy, so the bulk of their troops are retreating without being attacked.  Our task is to create a diversion, with no reinforcements coming from {TEAM_EMP.FactionDef.Demonym}'s.\n\r\nBe advised that the {TEAM_TAR.FactionDef.Name} are sending a massive force, we're on our own here; save for some stationary turrets.",
+	"shortDescription": "[MC.Format.ToUpperFirst.{TEAM_EMP.FactionDef.Name}] has been pulling back their forces in large numbers after taking heavy casualties.  The last remaining bases are being kept online as a decoy, so the bulk of their troops are retreating without being attacked.  Our task is to create a diversion, with no reinforcements coming from {TEAM_EMP.FactionDef.Demonym}'s.\n\r\nBe advised that {TEAM_TAR.FactionDef.Name} are sending a massive force, we're on our own here; save for some stationary turrets.",
 	"longDescription": "Maintain the defense and do whatever it takes to get us out of this in one piece.",
 	"salvagePotential": 24,
 	"requirementList": [
