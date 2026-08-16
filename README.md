@@ -18,3 +18,19 @@ This archive contains **7 new mission types** originally created by Kaiotik for 
 * (Optional) Extract **ColourfulFlashpoints** to color-code both ComStar missions and the new mission types on the mission select screen.
 * (Optional) Extract **Solaris7** to add 12 game worlds across the starmap featuring special Battle Royale missions. Win a rare 'Mech for every 5-win streak achieved within each weight class (Light, Medium, Heavy, Assault).
   * The mod folder contains a ZIP file with the full version of Solaris 7, including the Solaris League matches. This version of the mod requires a new game start.
+  
+## Change Notes
+
+* **v0.1.0 (Initial Release):**
+  * Ported all files directly from the latest version of BattleTech Advanced (BTA).
+  * Renamed several new contract types for better consistency:
+    * `BattleRoyaleV2` ? `BattleRoyale`
+    * `DefenceInDepth` ? `DefenseInDepth`
+    * `SplitDefense` ? `Split_DefendBase`
+    * `TheSwitch_Assassinate` ? `Switch_Assassinate`
+  * Cleaned up all `contractTypeBuilds` and `encounterLayers` files, streamlining the `Author`, `Name`, and `FriendlyName` fields.
+  * Standardized encounter layers to use the camelCase naming convention instead of acronyms.
+
+* **v0.1.1:**
+  * Implemented various minor adjustments to the `contracts` files.
+  * Clamped `maxNumberOfPlayerUnits` to a maximum limit of 4.
