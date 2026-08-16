@@ -915,7 +915,7 @@
 				},
 				"lanceExcludedTagSet": {
 					"items": [
-						"no_extended_lance"
+						"mc_no_extended_lance"
 					],
 					"tagSetSourceFile": "tags/LanceTags"
 				},
@@ -1088,7 +1088,7 @@
 				"lanceExcludedTagSet": {
 					"items": [
 						"lance_type_gladiator",
-						"no_extended_lance"
+						"mc_no_extended_lance"
 					],
 					"tagSetSourceFile": "tags/LanceTags"
 				},
@@ -1189,7 +1189,7 @@
 				"lanceExcludedTagSet": {
 					"items": [
 						"lance_type_gladiator",
-						"no_extended_lance"
+						"mc_no_extended_lance"
 					],
 					"tagSetSourceFile": "tags/LanceTags"
 				},
@@ -1290,7 +1290,7 @@
 				"lanceExcludedTagSet": {
 					"items": [
 						"lance_type_gladiator",
-						"no_extended_lance"
+						"mc_no_extended_lance"
 					],
 					"tagSetSourceFile": "tags/LanceTags"
 				},

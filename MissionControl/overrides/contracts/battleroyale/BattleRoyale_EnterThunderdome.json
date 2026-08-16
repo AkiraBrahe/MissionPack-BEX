@@ -607,7 +607,7 @@
 							"items": [],
 							"tagSetSourceFile": "tags/SpawnEffectTags"
 						},
-						"pilotDefId": "pilot_gameworld_gladiator",
+						"pilotDefId": "pilotDef_InheritLance",
 						"pilotTagSet": {
 							"items": [],
 							"tagSetSourceFile": "tags/PilotTags"
@@ -681,7 +681,7 @@
 							"items": [],
 							"tagSetSourceFile": "tags/SpawnEffectTags"
 						},
-						"pilotDefId": "pilot_gameworld_gladiator",
+						"pilotDefId": "pilotDef_InheritLance",
 						"pilotTagSet": {
 							"items": [],
 							"tagSetSourceFile": "tags/PilotTags"
@@ -756,7 +756,7 @@
 							"items": [],
 							"tagSetSourceFile": "tags/SpawnEffectTags"
 						},
-						"pilotDefId": "pilot_gameworld_gladiator",
+						"pilotDefId": "pilotDef_InheritLance",
 						"pilotTagSet": {
 							"items": [],
 							"tagSetSourceFile": "tags/PilotTags"
@@ -841,7 +841,7 @@
 							"items": [],
 							"tagSetSourceFile": "tags/SpawnEffectTags"
 						},
-						"pilotDefId": "pilot_gameworld_gladiator",
+						"pilotDefId": "pilotDef_InheritLance",
 						"pilotTagSet": {
 							"items": [],
 							"tagSetSourceFile": "tags/PilotTags"
@@ -913,7 +913,7 @@
 							"items": [],
 							"tagSetSourceFile": "tags/SpawnEffectTags"
 						},
-						"pilotDefId": "pilot_gameworld_gladiator",
+						"pilotDefId": "pilotDef_InheritLance",
 						"pilotTagSet": {
 							"items": [],
 							"tagSetSourceFile": "tags/PilotTags"
