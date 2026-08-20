@@ -1,12 +1,12 @@
 {
-	"EncounterLayerID": "mapArena_redCity_bMars.6f947486-9298-40ba-ab0c-97540a950e8b",
-	"MapID": "mapArena_redCity_bMars",
-	"Name": "encMC_BattleRoyale_RedCity",
-	"FriendlyName": "Battle Royale - Red City",
-	"Description": "Player must defeat all",
-	"BattleValue": "0",
-	"ContractTypeID": "17001",
-	"EncounterLayerGUID": "6f947486-9298-40ba-ab0c-97540a950e8b",
-	"TagSetID": "mapArena_redCity_bMars.6f947486-9298-40ba-ab0c-97540a950e8b",
-	"IncludeInBuild": "1"
+  "EncounterLayerID": "mapArena_redCity_bMars.6f947486-9298-40ba-ab0c-97540a950e8b",
+  "MapID": "mapArena_redCity_bMars",
+  "Name": "encMC_BattleRoyale_RedCity",
+  "FriendlyName": "Battle Royale - Red City",
+  "Description": "Player must defeat all",
+  "BattleValue": "0",
+  "ContractTypeID": "17001",
+  "EncounterLayerGUID": "6f947486-9298-40ba-ab0c-97540a950e8b",
+  "TagSetID": "mapArena_redCity_bMars.6f947486-9298-40ba-ab0c-97540a950e8b",
+  "IncludeInBuild": "1"
 }
