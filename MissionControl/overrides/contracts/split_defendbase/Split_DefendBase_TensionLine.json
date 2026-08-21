@@ -13,7 +13,7 @@
   "goodFaithStatementOverride": null,
   "shortDescription": "Two power stations provide the energy required to sustain a {TEAM_EMP.FactionDef.Demonym} civilian complex.  {TEAM_TAR.FactionDef.ShortName} forces have launched a campaign to seize or destroy the installations, knowing the loss of either station would destabilize the entire power grid.\n\r\nYour orders are straightforward: both power stations must survive the engagement intact.",
   "longDescription": "The contract is void if either station falls to enemy action.",
-  "salvagePotential": 16,
+  "salvagePotential": 24,
   "requirementList": [
     {
       "Scope": "StarSystem",

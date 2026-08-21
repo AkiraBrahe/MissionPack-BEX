@@ -13,7 +13,7 @@
   "goodFaithStatementOverride": null,
   "shortDescription": "Commander, we need you to confirm the status of a supply cache in the {TGT_SYSTEM.name} system that we established in case we need to execute local operations. Your company will run a patrol through the region, passing by the dumps and establishing communications by tightbeam only.\n\nDo not attempt to contact the cache by radio and maintain a low profile, discretion is paramount on this operation.",
   "longDescription": "Oh sure, dropping in a merc mech company to check your secret supply cache is the very definition of discretion. Commander, if this doesn't go sideways I may die of shock.",
-  "salvagePotential": 20,
+  "salvagePotential": 16,
   "requirementList": [
     {
       "Scope": "StarSystem",

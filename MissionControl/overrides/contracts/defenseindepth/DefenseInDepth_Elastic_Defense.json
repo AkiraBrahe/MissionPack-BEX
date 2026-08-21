@@ -13,7 +13,7 @@
   "goodFaithStatementOverride": null,
   "shortDescription": "[MC.Format.ToUpperFirst.{TEAM_TAR.FactionDef.Name}]'s incursions have been escalating, and a massive force is gathering to deliver a decisive strike and destroy all of {TEAM_EMP.FactionDef.Name}'s fortifications in the area.  We've been hired to slow them down, taking the brunt of the attack upfront.\n\r\nThe {TEAM_EMP.FactionDef.Demonym}'s second-line units have been deployed to support us.",
   "longDescription": "Sometimes the best strategy is to stretch, bounce, and hope you don't snap.",
-  "salvagePotential": 24,
+  "salvagePotential": 28,
   "requirementList": [
     {
       "Scope": "StarSystem",

@@ -13,7 +13,7 @@
   "goodFaithStatementOverride": null,
   "shortDescription": "The {TEAM_EMP.FactionDef.Demonym}'s agents are using this installation as their forward base.  They were discovered by the {TEAM_TAR.FactionDef.Demonym}'s intelligence and has deployed a substantial force to eliminate them. Lacking military power to mount a defense, the agents are falling back. Assist them in conducting a safe evacuation.",
   "longDescription": "Taking fire for them isn't desirable, but it's how we earn our keep.",
-  "salvagePotential": 16,
+  "salvagePotential": 24,
   "requirementList": [
     {
       "Scope": "StarSystem",

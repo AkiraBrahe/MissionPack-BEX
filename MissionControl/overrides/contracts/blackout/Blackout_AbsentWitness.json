@@ -13,7 +13,7 @@
   "goodFaithStatementOverride": null,
   "shortDescription": "I'm not at liberty to give you many details on this sensitive matter. What I can tell you is as of last night we lost contact with a site housing a very valuable witness-in-protection in the {TGT_SYSTEM.name} system. If this has anything to do with the reason for protection I'd expect {TEAM_TAR.FactionDef.Demonym} groups to be involved. Get there and figure out what's going on.",
   "longDescription": "Witness-in-protection? Lost contact? I think we all know how this might turn out. Let's go in with our eyes open, Commander.",
-  "salvagePotential": 20,
+  "salvagePotential": 12,
   "requirementList": [
     {
       "Scope": "StarSystem",

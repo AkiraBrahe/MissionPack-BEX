@@ -13,7 +13,7 @@
   "goodFaithStatementOverride": null,
   "shortDescription": "We've been informed by one of the largest news networks that a {TEAM_TAR.FactionDef.Demonym} Governor has taken issue with a recently released report on military fund spending irregularities. She's demanded a duel to fight those allegations. We'd like to hire you to represent and uphold that worthy news report, Commander.",
   "longDescription": "I just don't know, Commander. When people say they want to 'fight' allegations it's not meant to be a real fight. This {TEAM_TAR.FactionDef.Demonym} Governor is crazy. Let's uphold the truth... for a price.",
-  "salvagePotential": 4,
+  "salvagePotential": 6,
   "requirementList": [
     {
       "Scope": "StarSystem",

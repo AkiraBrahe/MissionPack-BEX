@@ -13,7 +13,7 @@
   "goodFaithStatementOverride": null,
   "shortDescription": "Your company is tasked with protecting two communications relay support stations.  These installations form a single communications network; if either station is destroyed, the entire regional communications grid will collapse.\n\r\n{TEAM_TAR.FactionDef.Demonym} forces are expected to sabotage teams and strike exploiting weak points of the defenses.\n\r\n{TEAM_EMP.FactionDef.ShortName} has designated both sites as irreplaceable strategic assets.The contract will be considered failed if either relay station is rendered inoperable.",
   "longDescription": "If either relay station is rendered inoperable, mission will be considered as a failure.",
-  "salvagePotential": 16,
+  "salvagePotential": 28,
   "requirementList": [
     {
       "Scope": "StarSystem",

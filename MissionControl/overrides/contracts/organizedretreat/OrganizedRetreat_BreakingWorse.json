@@ -13,7 +13,7 @@
   "goodFaithStatementOverride": null,
   "shortDescription": "Our employer has been cooking up some extremely questionable <i>science</i>.  Unfortunately, they forgot one tiny detail: they don't actually have permission to do any of it here.\n\r\nDespite repeated calls by the {TEAM_TAR.FactionDef.Demonym} authorities, they kept right on bubbling their beakers and poking their mysterious gizmos. Now, they're being evicted forcefully.\n\r\nOur mission? Give them a little breathing room to grab all their <i>scientific</i> doohickeys, pack up their suspiciously dubious supplies, and evacuate the place.",
   "longDescription": "Hopefully they keep that stuff to themselves, so we don't get involved.",
-  "salvagePotential": 12,
+  "salvagePotential": 20,
   "requirementList": [
     {
       "Scope": "StarSystem",

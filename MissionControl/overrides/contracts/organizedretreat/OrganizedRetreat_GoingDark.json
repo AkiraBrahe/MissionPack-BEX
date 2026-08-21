@@ -13,7 +13,7 @@
   "goodFaithStatementOverride": null,
   "shortDescription": "{TEAM_TAR.FactionDef.Demonym} forces have identified the location of {TEAM_EMP.FactionDef.Demonym}'s forward operating base. Friendly elements are preparing to withdraw, but enemy units are rapidly closing in. We are tasked with providing support to delay the enemy's advance. They'll need escorting out while under fire, so be prepared to split our forces.",
   "longDescription": "Guess this facility is shutting down. Good news for us though.",
-  "salvagePotential": 12,
+  "salvagePotential": 20,
   "requirementList": [
     {
       "Scope": "StarSystem",

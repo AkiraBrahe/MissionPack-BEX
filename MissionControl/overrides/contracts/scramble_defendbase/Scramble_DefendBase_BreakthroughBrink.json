@@ -13,7 +13,7 @@
   "goodFaithStatementOverride": null,
   "shortDescription": "A {TEAM_EMP.FactionDef.Demonym} industrial lab is at a critical juncture in its R&D program.  Any disruption would set us back a decade. {TEAM_TAR.FactionDef.Name} on {TGT_SYSTEM.name} has discovered this, and they've already interdicted the first lance of 'Mechs that were sent to defend the facility.  We need mercenaries to step in and buy the time necessary for further reinforcements to arrive.",
   "longDescription": "Commander, if they're hiring mercs to babysit when their forces are less than a day away they expect trouble.  Rumors say {TEAM_TAR.FactionDef.Demonym} forces are in the area, they could present a threat.",
-  "salvagePotential": 16,
+  "salvagePotential": 20,
   "requirementList": [
     {
       "Scope": "StarSystem",

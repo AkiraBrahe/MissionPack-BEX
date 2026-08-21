@@ -13,7 +13,7 @@
   "goodFaithStatementOverride": null,
   "shortDescription": "A soon-to-be-operational planetary sensor array and a missile defense battery will form the backbone of {TEAM_EMP.FactionDef.Demonym} regional defense operations.  The two facilities are linked through a common targeting network, and the destruction of either asset will compromise the effectiveness of the entire system, once operational.\n\r\n{TEAM_TAR.FactionDef.ShortName} units are expected to probe defenses before committing heavier assault forces against whichever site appears weakest.  The governor's office has declared both installations mission-critical.",
   "longDescription": "Failure to preserve both facilities will be recorded as a failed contract regardless of enemy losses.",
-  "salvagePotential": 16,
+  "salvagePotential": 28,
   "requirementList": [
     {
       "Scope": "StarSystem",

@@ -13,7 +13,7 @@
   "goodFaithStatementOverride": null,
   "shortDescription": "We're in a bit of trouble. Two of our pilots challenged two long standing {TEAM_TAR.FactionDef.Demonym} duelists to a fight. Only now our pilots are nowhere to be found. Can you step in and take their spots please? Of course, you'd have to pretend to be our pilots.",
   "longDescription": "So, pick up the mess AND give away the credit. What a raw situation. At least the MRB knows the deal.",
-  "salvagePotential": 4,
+  "salvagePotential": 6,
   "requirementList": [
     {
       "Scope": "StarSystem",

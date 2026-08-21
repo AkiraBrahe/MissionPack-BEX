@@ -13,7 +13,7 @@
   "goodFaithStatementOverride": null,
   "shortDescription": "One of our bio research stations has gone dark in the {TGT_SYSTEM.name} system. We've not sure why but {TEAM_TAR.FactionDef.Demonym} affiliated groups have been asking about purchasing some specific supplies we also use in that system. Investigate and find out what's going on.",
   "longDescription": "Bio research station? We better be careful here, Commander. I don't fancy catching a new type of cold, if you know what I mean?",
-  "salvagePotential": 16,
+  "salvagePotential": 12,
   "requirementList": [
     {
       "Scope": "StarSystem",

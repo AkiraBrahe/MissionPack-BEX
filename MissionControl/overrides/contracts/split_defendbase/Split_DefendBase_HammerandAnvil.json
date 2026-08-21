@@ -13,7 +13,7 @@
   "goodFaithStatementOverride": null,
   "shortDescription": "An ordnance plant and its associated munitions depot have come under threat from {TEAM_TAR.FactionDef.ShortName} forces seeking to cripple local {TEAM_EMP.FactionDef.Demonym} military production.  While each facility can function independently, the loss of either would halt wartime manufacturing efforts across the region.\n\r\n{TEAM_EMP.FactionDef.Government} intelligence suggests coordinated attacks intended to split defending forces between the two objectives.  Your company must maintain defensive control over both locations simultaneously throughout the operation.",
   "longDescription": "Drive a Wedge, Secondary Line, Attacking the Hammer, Strenghtening Anvil Response are classic military tactics to break this kind of engagement; choose or adapt what you require, Commander.",
-  "salvagePotential": 16,
+  "salvagePotential": 24,
   "requirementList": [
     {
       "Scope": "StarSystem",

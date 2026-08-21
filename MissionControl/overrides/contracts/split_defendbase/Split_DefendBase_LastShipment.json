@@ -13,7 +13,7 @@
   "goodFaithStatementOverride": null,
   "shortDescription": "Two cargo terminals are being operated by the {TEAM_EMP.FactionDef.Government} in the system.  Cargo operations have been divided between both terminals, if either terminal is destroyed, precious supply and logisticical assets would be lost.  {TEAM_TAR.FactionDef.Demonym} raiders are exepcted to launch repeated attacks intended to disable loading infrastructure and fuel depots.\n\r\nBoth facilities must reamin operational until reinforcements arrive.",
   "longDescription": "Defending two assets at the same time, fun times.",
-  "salvagePotential": 16,
+  "salvagePotential": 20,
   "requirementList": [
     {
       "Scope": "StarSystem",

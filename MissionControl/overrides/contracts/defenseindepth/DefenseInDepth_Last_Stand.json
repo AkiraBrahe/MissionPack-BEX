@@ -13,7 +13,7 @@
   "goodFaithStatementOverride": null,
   "shortDescription": "{TEAM_TAR.FactionDef.Demonym}'s is forcing our employer back, so this is where they're making their stand. Our job is to hold the line and stall the enemy's advance until reinforcements arrive. Our employers say they've got some static defenses set up and even a volunteer militia backing us up.\n\r\nStay alert and hold this position as long as possible.",
   "longDescription": "It might be someone's last stand, but it's not ours, Commander.",
-  "salvagePotential": 12,
+  "salvagePotential": 28,
   "requirementList": [
     {
       "Scope": "StarSystem",
