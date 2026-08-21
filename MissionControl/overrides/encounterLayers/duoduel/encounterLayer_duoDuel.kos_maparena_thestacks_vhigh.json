@@ -2,7 +2,7 @@
   "EncounterLayerID": "mapArena_theStacks_vHigh.3c2f1db0-a2e5-4742-93fb-203229bd4be4",
   "MapID": "mapArena_theStacks_vHigh",
   "Name": "encMC_DuoDuel_TheStacks",
-  "FriendlyName": "Duo Duel - The Stacks",
+  "FriendlyName": "ARENA - The Stacks",
   "Description": "Player must kill the duel targets.",
   "BattleValue": "0",
   "ContractTypeID": "10001",

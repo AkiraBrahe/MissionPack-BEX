@@ -1,8 +1,8 @@
 {
   "EncounterLayerID": "mapGeneral_cityCenter_uTech.73c06b43-1f83-4f30-8f80-02461123effd",
   "MapID": "mapGeneral_cityCenter_uTech",
-  "Name": "encMC_SoloDuel_Brawl",
-  "FriendlyName": "Solo Duel - Brawl",
+  "Name": "encMC_SoloDuel_CityCenter",
+  "FriendlyName": "City Center",
   "Description": "Player must kill the duel target.",
   "BattleValue": "0",
   "ContractTypeID": "10000",

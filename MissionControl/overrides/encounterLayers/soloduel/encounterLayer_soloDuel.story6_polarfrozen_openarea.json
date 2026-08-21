@@ -2,7 +2,7 @@
   "EncounterLayerID": "mapStory_StoryEncounter6_iGlc.c70c1e8c-541e-49ea-94e3-a1f6fe3c8b56",
   "MapID": "mapStory_StoryEncounter6_iGlc",
   "Name": "encMC_SoloDuel_StoryEncounter6",
-  "FriendlyName": "Solo Duel - Grave Robbing",
+  "FriendlyName": "Story Encounter 6a (Raising the Dead)",
   "Description": "Player must kill the duel target.",
   "BattleValue": "0",
   "ContractTypeID": "10000",

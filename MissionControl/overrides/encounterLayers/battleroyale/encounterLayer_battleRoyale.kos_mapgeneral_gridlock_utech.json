@@ -2,7 +2,7 @@
   "EncounterLayerID": "mapGeneral_gridLock_uTech.7cdfda21-06f1-4f37-b6a6-a0770aa4995d",
   "MapID": "mapGeneral_gridLock_uTech",
   "Name": "encMC_BattleRoyale_GridLock",
-  "FriendlyName": "Battle Royale - Grid Lock",
+  "FriendlyName": "Grid Lock",
   "Description": "Player must defeat all",
   "BattleValue": "0",
   "ContractTypeID": "17001",

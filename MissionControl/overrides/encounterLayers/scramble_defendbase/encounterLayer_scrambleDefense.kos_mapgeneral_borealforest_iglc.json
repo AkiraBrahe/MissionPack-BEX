@@ -2,7 +2,7 @@
   "EncounterLayerID": "mapGeneral_borealForest_iGlc.294ebe67-5ade-4cdb-b8c8-69d526f35996",
   "MapID": "mapGeneral_borealForest_iGlc",
   "Name": "encMC_ScrambleDefense_BorealForest",
-  "FriendlyName": "Scramble Defense - Boreal Forest",
+  "FriendlyName": "Boreal Forest",
   "Description": "Deployment gone bad",
   "BattleValue": "0",
   "ContractTypeID": "17008",

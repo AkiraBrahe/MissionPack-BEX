@@ -2,7 +2,7 @@
   "EncounterLayerID": "mapGeneral_theMound_vHigh.eb88e93f-a00f-42bf-895a-a878d9fdfae8",
   "MapID": "mapGeneral_theMound_vHigh",
   "Name": "encMC_SwitchAssassinate_TheMound",
-  "FriendlyName": "Switch Assassinate - The Mound",
+  "FriendlyName": "The Mound",
   "Description": "Swaps team",
   "BattleValue": "0",
   "ContractTypeID": "17009",

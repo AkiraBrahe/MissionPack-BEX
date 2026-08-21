@@ -2,7 +2,7 @@
   "EncounterLayerID": "mapGeneral_boulderField_vLow.b2aa2d9a-a209-44c2-a32b-0f1783fc912d",
   "MapID": "mapGeneral_boulderField_vLow",
   "Name": "encMC_DefenseInDepth_BoulderField",
-  "FriendlyName": "Defense In Depth - Boulder Field",
+  "FriendlyName": "Boulder Field",
   "Description": "Layered and Elastic Defense",
   "BattleValue": "0",
   "ContractTypeID": "17007",
