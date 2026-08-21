@@ -4,7 +4,7 @@
     "DesignerVersion": "1.0",
     "MinCompatibleMCVersion": "1.4.2",
     "ContractTypeVersion": "0",
-    "Author": "KOS, BD\nInspired by CWolf's custom contracts"
+    "Author": "KOS, BD"
   },
   "Overrides": [
     {
