@@ -58,9 +58,7 @@
     "ExcludeFromAutocomplete": [
       "DefendBase",
       "FireMission",
-      "OrganizedRetreat",
-      "Scramble_DefendBase",
-      "Split_DefendBase"
+      "OrganizedRetreat"
     ],
     "HideObjective": true,
     "ShowObjectiveOnLanceDetected": true,

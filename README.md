@@ -1,9 +1,9 @@
-
 # Mission Pack for BEX (Adapted from BTA)
 
 ## Contents
 
 This archive contains **7 new mission types** originally created by Kaiotik for BattleTech Advanced (BTA) and adapted for BattleTech Extended (BEX), along with new Duel maps:
+
 * **Assassinate (Switch):** An assassination contract that turns into a high-stakes VIP extraction.
 * **Battle Royale:** A 6-way free-for-all, arena-style combat scenario.
 * **Defend Base (Scramble):** A base defense contract where your forces are scattered randomly across the map.
@@ -28,9 +28,17 @@ This archive contains **7 new mission types** originally created by Kaiotik for 
     * `DefenceInDepth` ? `DefenseInDepth`
     * `SplitDefense` ? `Split_DefendBase`
     * `TheSwitch_Assassinate` ? `Switch_Assassinate`
+    * `WarzoneV2` ? `Warzone`
   * Cleaned up all `contractTypeBuilds` and `encounterLayers` files, streamlining the `Author`, `Name`, and `FriendlyName` fields.
   * Standardized encounter layers to use the camelCase naming convention instead of acronyms.
-
+  * Added `descriptions` for each mission type with the number of expected 'Mechs for each.
 * **v0.1.1:**
   * Implemented various minor adjustments to the `contracts` files.
   * Clamped `maxNumberOfPlayerUnits` to a maximum limit of 4.
+* **v0.2.0:**
+  * Increased the rewards (salvage and pay) in some of the new contracts.
+  * Added missing dialogue buckets for the Battle Royale and Warzone missions.
+  * Fixed The Royal Rumble contract generation via a patch in Solaris7.
+
+> !NOTE
+> Clans are not excluded from the new missions, but they might once the missions are integrated to BEX.

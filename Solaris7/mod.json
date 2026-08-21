@@ -6,7 +6,7 @@
   "Description": "Become the most famous Solaris gladiator in the Inner Sphere.",
   "Author": "Ablomis",
 
-  "DependsOn": [ "BT_Extended", "BT_Extended_3050", "FullXotlTables", "Mission Control" ],
+  "DependsOn": [ "BT_Extended", "BT_Extended_3050", "BT_Extended_Timeline", "FullXotlTables", "Mission Control" ],
 
   "DLL": "Solaris7.dll",
 

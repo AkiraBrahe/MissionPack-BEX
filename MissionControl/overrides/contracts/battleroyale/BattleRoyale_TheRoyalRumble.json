@@ -27,9 +27,9 @@
       },
       "RequirementComparisons": [
         {
-          "obj": "Target.IsMercenary",
+          "obj": "Target.IsOwner",
           "op": "Equal",
-          "val": 1,
+          "val": 0,
           "valueConstant": null
         }
       ]
@@ -630,7 +630,7 @@
     },
     "teamGuid": "be77cadd-e245-4240-a93e-b99cc98902a5",
     "teamName": "Target",
-    "faction": "INVALID_UNSET",
+    "faction": "HostileMercenaries",
     "teamLeaderCastDefId": "castDef_TeamLeader_Current",
     "lanceOverrideList": [
       {
