@@ -19,6 +19,8 @@
   "Manifest": [
     { "Type": "CastDef", "Path": "overrides/cast" },
     { "Type": "ContractOverride", "Path": "overrides/contracts" },
+    { "Type": "DialogBucketDef", "Path": "overrides/conversationBuckets" },
+    { "Type": "ConversationContent", "Path": "overrides/conversations" },
     { "Type": "BaseDescriptionDef", "Path": "overrides/descriptions", "AddToDB": true },
     { "Type": "EncounterLayer", "Path": "overrides/encounterLayers" },
     { "Type": "SimGameStatDescDef", "Path": "overrides/simGameStatDesc" }
