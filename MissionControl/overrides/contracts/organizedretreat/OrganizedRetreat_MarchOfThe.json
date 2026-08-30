@@ -13,7 +13,7 @@
   "goodFaithStatementOverride": null,
   "shortDescription": "{TEAM_TAR.FactionDef.Demonym} forces have been hitting {TEAM_EMP.FactionDef.Demonym} bases the past few days. All signs point to this base being next. We've been asked to defend the base long enough to evacuate its occupants.",
   "longDescription": "Boots on the ground...that's us.",
-  "salvagePotential": 28,
+  "salvagePotential": 24,
   "requirementList": [
     {
       "Scope": "StarSystem",

@@ -13,7 +13,7 @@
   "goodFaithStatementOverride": null,
   "shortDescription": "The {TEAM_EMP.FactionDef.Demonym}'s intelligence-gathering facility has been compromised. {TEAM_TAR.FactionDef.Demonym} units are mobilizing a significant strike element to neutralize the site and its occupants. Our employer is initiating a full data purge to mitigate liability and prevent sensitive material from being captured. Our mission is to delay the enemy advance long enough to ensure the purge is completed, then guard the withdrawal of personnel from the installation.",
   "longDescription": "We just need to buy them enough time to do the purge and then get them out safely.",
-  "salvagePotential": 24,
+  "salvagePotential": 20,
   "requirementList": [
     {
       "Scope": "StarSystem",
