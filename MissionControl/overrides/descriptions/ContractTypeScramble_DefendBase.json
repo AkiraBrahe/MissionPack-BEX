@@ -1,6 +1,6 @@
 {
   "Id": "ContractTypeScramble_DefendBase",
   "Name": "Defend Base (Scramble)",
-  "Details": "Your lance has been caught off-guard by a surprise attack. Your objective is to defend the base with your forces scattered across the deployment zone. Regroup as quickly as possible to hold the line.\n\nExpected Forces: <color=#F4715E>12–16 'Mechs</color>",
+  "Details": "Your lance has been caught off-guard by a surprise attack. Your objective is to defend the base with your forces scattered across the deployment zone. Regroup as quickly as possible to hold the line.\n\nExpected Forces: <color=#F4715E>8–16 'Mechs</color>",
   "Icon": ""
 }
