@@ -38,7 +38,9 @@ This archive contains **7 new mission types** originally created by Kaiotik for 
 * **v0.2.0:**
   * Increased the rewards (salvage and pay) in some of the new contracts.
   * Added missing dialogue buckets for the Battle Royale and Warzone missions.
-  * Fixed The Royal Rumble contract generation via a patch in Solaris7.
+* **v0.2.1:**
+  * Fixed an issue with Solaris appearing in randomly generated contracts. 
+
 
 > !NOTE
 > Clans are not excluded from the new missions, but they might once the missions are integrated to BEX.

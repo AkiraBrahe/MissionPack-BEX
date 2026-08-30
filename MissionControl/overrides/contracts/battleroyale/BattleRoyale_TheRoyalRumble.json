@@ -12,7 +12,7 @@
   "badFaithStatementOverride": null,
   "goodFaithStatementOverride": null,
   "shortDescription": "A number of mercenary commands have gotten together to have a bit of a free-for-all fight with some cash and salvage on the line for the winner. However, it's gonna be a wild ride as everyone's IFFs are going to be switching between ally and enemy mode constantly, just to keep it interesting, as the flow of battle changes. Our employer is paying us to win this thing for them, so get in there and make us look good, Commander.",
-  "longDescription": "Things are never simple are they. Let's get it done.",
+  "longDescription": "Things are never simple, are they? Let's get it done.",
   "salvagePotential": 12,
   "requirementList": [
     {
@@ -22,7 +22,9 @@
         "tagSetSourceFile": ""
       },
       "ExclusionTags": {
-        "items": [],
+        "items": [
+          "planet_other_gameworld"
+        ],
         "tagSetSourceFile": ""
       },
       "RequirementComparisons": [
