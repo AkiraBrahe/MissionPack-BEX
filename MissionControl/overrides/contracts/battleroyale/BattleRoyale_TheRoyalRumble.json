@@ -29,9 +29,9 @@
       },
       "RequirementComparisons": [
         {
-          "obj": "Target.IsOwner",
+          "obj": "Target.Locals",
           "op": "Equal",
-          "val": 0,
+          "val": 1,
           "valueConstant": null
         }
       ]
