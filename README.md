@@ -24,11 +24,11 @@ This archive contains **7 new mission types** originally created by Kaiotik for 
 * **v0.1.0 (Initial Release):**
   * Ported all files directly from the latest version of BattleTech Advanced (BTA).
   * Renamed several new contract types for better consistency:
-    * `BattleRoyaleV2` ? `BattleRoyale`
-    * `DefenceInDepth` ? `DefenseInDepth`
-    * `SplitDefense` ? `Split_DefendBase`
-    * `TheSwitch_Assassinate` ? `Switch_Assassinate`
-    * `WarzoneV2` ? `Warzone`
+    * `BattleRoyaleV2` → `BattleRoyale`
+    * `DefenceInDepth` → `DefenseInDepth`
+    * `SplitDefense` → `Split_DefendBase`
+    * `TheSwitch_Assassinate` → `Switch_Assassinate`
+    * `WarzoneV2` → `Warzone`
   * Cleaned up all `contractTypeBuilds` and `encounterLayers` files, streamlining the `Author`, `Name`, and `FriendlyName` fields.
   * Standardized encounter layers to use the camelCase naming convention instead of acronyms.
   * Added `descriptions` for each mission type with the number of expected 'Mechs for each.
@@ -39,8 +39,12 @@ This archive contains **7 new mission types** originally created by Kaiotik for 
   * Increased the rewards (salvage and pay) in some of the new contracts.
   * Added missing dialogue buckets for the Battle Royale and Warzone missions.
 * **v0.2.1:**
-  * Fixed an issue with Solaris appearing in randomly generated contracts. 
-
+  * Fixed an issue with Solaris appearing in randomly generated contracts.
+    * Instead of adding Solaris as an employer on game worlds, a patch intercepts Solaris contracts and switches the factions to Solaris.
+* **v0.2.2:**
+  * Added four new maps for Warzone missions: Broken Grotto, High Plateaus, Pocket Lakes, and The Stacks.
+  * Adjusted spawn points on the Red City map for Solo and Duo Duels so larger units don't get stuck in buildings.
+  * Fixed an issue with the Split River map for Warzone missions, among other minor changes.
 
 > !NOTE
 > Clans are not excluded from the new missions, but they might once the missions are integrated to BEX.
