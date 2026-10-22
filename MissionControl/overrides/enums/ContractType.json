@@ -12,7 +12,7 @@
       "IsMultiplayer": false,
       "UsesFury": false,
       "UsesSecondScaledStructureValues": false,
-      "ContractRewardMultiplier": 0.2,
+      "ContractRewardMultiplier": 0.4,
       "Illustration": "uixTxrSpot_battleContract",
       "Icon": "uixSvgIcon_contract_Battle",
       "IsPublished": true
@@ -29,7 +29,7 @@
       "IsMultiplayer": false,
       "UsesFury": false,
       "UsesSecondScaledStructureValues": false,
-      "ContractRewardMultiplier": 0.4,
+      "ContractRewardMultiplier": 0.8,
       "Illustration": "uixTxrSpot_battleContract",
       "Icon": "uixSvgIcon_contract_Battle",
       "IsPublished": true
@@ -46,7 +46,7 @@
       "IsMultiplayer": false,
       "UsesFury": false,
       "UsesSecondScaledStructureValues": false,
-      "ContractRewardMultiplier": 0.8,
+      "ContractRewardMultiplier": 1,
       "Illustration": "uixTxrSpot_rescueContract",
       "Icon": "uixSvgIcon_contract_Recovery",
       "IsPublished": true
@@ -148,7 +148,7 @@
       "IsMultiplayer": false,
       "UsesFury": false,
       "UsesSecondScaledStructureValues": false,
-      "ContractRewardMultiplier": 1,
+      "ContractRewardMultiplier": 0.8,
       "Illustration": "uixTxrSpot_assassinateContract",
       "Icon": "uixSvgIcon_contract_Assassinate",
       "IsPublished": true
