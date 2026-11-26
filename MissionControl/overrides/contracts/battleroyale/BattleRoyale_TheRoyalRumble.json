@@ -18,14 +18,12 @@
     {
       "Scope": "StarSystem",
       "RequirementTags": {
-        "items": [],
-        "tagSetSourceFile": ""
+        "items": []
       },
       "ExclusionTags": {
         "items": [
           "planet_other_gameworld"
-        ],
-        "tagSetSourceFile": ""
+        ]
       },
       "RequirementComparisons": [
         {

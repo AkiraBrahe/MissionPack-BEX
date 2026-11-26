@@ -18,12 +18,10 @@
     {
       "Scope": "StarSystem",
       "RequirementTags": {
-        "items": [],
-        "tagSetSourceFile": ""
+        "items": []
       },
       "ExclusionTags": {
-        "items": [],
-        "tagSetSourceFile": ""
+        "items": []
       },
       "RequirementComparisons": [
         {

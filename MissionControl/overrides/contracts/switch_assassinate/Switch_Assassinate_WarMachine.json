@@ -20,12 +20,10 @@
       "RequirementTags": {
         "items": [
           "planet_other_empty"
-        ],
-        "tagSetSourceFile": ""
+        ]
       },
       "ExclusionTags": {
-        "items": [],
-        "tagSetSourceFile": ""
+        "items": []
       },
       "RequirementComparisons": []
     }

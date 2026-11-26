@@ -20,12 +20,10 @@
       "RequirementTags": {
         "items": [
           "planet_other_gameworld"
-        ],
-        "tagSetSourceFile": ""
+        ]
       },
       "ExclusionTags": {
-        "items": [],
-        "tagSetSourceFile": ""
+        "items": []
       },
       "RequirementComparisons": [
         {
@@ -42,11 +40,9 @@
       "Scope": "Company",
       "Requirements": null,
       "AddedTags": {
-        "tagSetSourceFile": "",
         "items": []
       },
       "RemovedTags": {
-        "tagSetSourceFile": "",
         "items": []
       },
       "Stats": [
@@ -68,11 +64,9 @@
       "Requirements": {
         "Scope": "Company",
         "RequirementTags": {
-          "tagSetSourceFile": "",
           "items": []
         },
         "ExclusionTags": {
-          "tagSetSourceFile": "",
           "items": []
         },
         "RequirementComparisons": [
@@ -85,11 +79,9 @@
         ]
       },
       "AddedTags": {
-        "tagSetSourceFile": "",
         "items": []
       },
       "RemovedTags": {
-        "tagSetSourceFile": "",
         "items": []
       },
       "Stats": [
