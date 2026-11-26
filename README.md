@@ -45,6 +45,10 @@ This archive contains **7 new mission types** originally created by Kaiotik for 
   * Added four new maps for Warzone missions: Broken Grotto, High Plateaus, Pocket Lakes, and The Stacks.
   * Adjusted spawn points on the Red City map for Solo and Duo Duels so larger units don't get stuck in buildings.
   * Fixed an issue with the Split River map for Warzone missions, among other minor changes.
+* **v0.2.3:**
+  * Updated DLL and removed `tagSetSourceFile` from all contract JSONs to speed up game startup.
+  * Added more mission area for valid spawn locations on Sunken Hills map.
+  * Fixed one malformed contract and several dialogue errors.
 
 > !NOTE
 > Clans are not excluded from the new missions, but they might once the missions are integrated to BEX.
