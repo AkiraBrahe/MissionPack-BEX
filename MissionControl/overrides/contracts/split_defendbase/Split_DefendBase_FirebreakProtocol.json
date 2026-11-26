@@ -782,7 +782,7 @@
       "overrideDialogueBucketId": "",
       "dialogueContent": [
         {
-          "words": "<color=#99ebff>{TEAM_EMP.FactionDef.Government} Regional Defense Liason:</color> Alert!  sensor arrays' defensive turrets have been knocked out and is now exposed.",
+          "words": "<color=#99ebff>Regional Defense Liason:</color> Alert!  sensor arrays' defensive turrets have been knocked out and is now exposed.",
           "wordsColor": {
             "r": 1,
             "g": 1,
@@ -807,7 +807,7 @@
       "overrideDialogueBucketId": "",
       "dialogueContent": [
         {
-          "words": "<color=#99ebff>{TEAM_EMP.FactionDef.Government} Regional Defense Liason:</color> Missile batteries' defense are offline.  {TEAM_TAR.FactionDef.ShortName} forces now have an open a path to the missile defense complex.",
+          "words": "<color=#99ebff>Regional Defense Liason:</color> Missile batteries' defense are offline. Enemy forces now have an open a path to the missile defense complex.",
           "wordsColor": {
             "r": 1,
             "g": 1,
@@ -857,7 +857,7 @@
       "overrideDialogueBucketId": "",
       "dialogueContent": [
         {
-          "words": "<color=#99ebff>{TEAM_EMP.FactionDef.Government} Regional Defense Liason:</color> Second enemy lance has been neutralized.",
+          "words": "<color=#99ebff>Regional Defense Liason:</color> Second enemy lance has been neutralized.",
           "wordsColor": {
             "r": 1,
             "g": 1,
@@ -907,7 +907,7 @@
       "overrideDialogueBucketId": "",
       "dialogueContent": [
         {
-          "words": "<color=#99ebff>{TEAM_EMP.FactionDef.Government} Regional Defense Liason:</color> Hostile blips no longer combat effective.  Bravo Base remains operational.",
+          "words": "<color=#99ebff>Regional Defense Liason:</color> Hostile blips no longer combat effective.  Bravo Base remains operational.",
           "wordsColor": {
             "r": 1,
             "g": 1,
@@ -957,7 +957,7 @@
       "overrideDialogueBucketId": "",
       "dialogueContent": [
         {
-          "words": "<color=#99ebff>{TEAM_EMP.FactionDef.Government} Regional Defense Liason:</color> Outstanding shooting.",
+          "words": "<color=#99ebff>Regional Defense Liason:</color> Outstanding shooting.",
           "wordsColor": {
             "r": 1,
             "g": 1,

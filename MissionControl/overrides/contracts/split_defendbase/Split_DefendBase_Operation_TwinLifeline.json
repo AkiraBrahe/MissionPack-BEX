@@ -741,7 +741,7 @@
       "overrideDialogueBucketId": "",
       "dialogueContent": [
         {
-          "words": "Final {TEAM_TGT.FactionDef.Demonym} wave confirmed on the field, Commander --- expect a sustained attack.",
+          "words": "Final {TEAM_TAR.FactionDef.Demonym} wave confirmed on the field, Commander --- expect a sustained attack.",
           "wordsColor": {
             "r": 1,
             "g": 1,

@@ -48,10 +48,10 @@
     -1
   ],
   "mechMaxTonnages": [
-    50,
-    50,
-    50,
-    50
+    55,
+    55,
+    55,
+    55
   ],
   "mapMood": null,
   "startingFogOfWarVisibility": "Surveyed",
